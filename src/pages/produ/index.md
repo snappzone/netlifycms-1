@@ -1,7 +1,7 @@
 ---
 templateKey: 'produ-page'
 path: /produ
-title: Our Produ
+title: Our Dupa
 image: /img/jumbotron.jpg
 heading: Great produ with a conscience
 description: >-
@@ -73,7 +73,7 @@ full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
+    Make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
@@ -96,6 +96,10 @@ pricing:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
+        - Salt varieties
       plan: Custom
-      price: 'dupa'
+      price: '100'
 ---
+
+
+<!-- https://www.netlifycms.org/docs/add-to-your-site/#authentication  -->
